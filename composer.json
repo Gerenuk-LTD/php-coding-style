@@ -1,0 +1,9 @@
+{
+    "name": "gerenuk/php-coding-style",
+    "description": "Gerenuk's Coding Style",
+    "require-dev": {
+        "laravel/pint": "^1.0"
+    },
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
