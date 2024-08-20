@@ -26,9 +26,6 @@
             "imports_order": null,
             "sort_algorithm": "alpha"
         },
-        "single_quote": {
-            "strings_containing_single_quote_chars": true
-        },
         "single_space_around_construct": {
             "constructs_contain_a_single_space": [
                 "yield_from"
