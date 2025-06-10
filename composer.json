@@ -1,6 +1,6 @@
 {
     "name": "gerenuk/php-coding-style",
-    "description": "Gerenuk's Coding Style",
+    "description": "Gerenuk's PHP coding style - PSR12 with some preferences",
     "require-dev": {
         "laravel/pint": "^1.0"
     },
